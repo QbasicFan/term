@@ -144,7 +144,7 @@ function commandHalt(env) {
 //************************************
 
 function commandPhil(env){
-krnlFOut(env.stdout, "Hi , I am Phil I am forking this project . If you want to know more about check my blog http://retrophylien.net16.net/");
+krnlFOut(env.stdout, "Hi , I am Phil I am forking this project . If you want to know more about check my github https://qbasicfan.github.io/term/");
 }
 
 
